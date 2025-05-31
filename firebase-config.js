@@ -2,8 +2,8 @@
 const firebaseConfig = {
   apiKey: "AIzaSyAzL3AyyR8Vz9J2Trw_u4Kpo8gXrqtlLLQ",
   authDomain: "listingrep.firebaseapp.com",
-  projectId: "TON_PROJET",
-  storageBucket: "TON_PROJET.appspot.com",
+  projectId: "listingrep",
+  storageBucket: "listingrep.appspot.com",
   messagingSenderId: "XXXXXXXX",
   appId: "1:XXXXXXXX:web:XXXXXXXX"
 };
