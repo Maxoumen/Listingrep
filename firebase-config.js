@@ -1,6 +1,6 @@
 // Remplace les valeurs ci-dessous par ta configuration Firebase
 const firebaseConfig = {
-  apiKey: "TA_CLE_API",
+  apiKey: "AIzaSyAzL3AyyR8Vz9J2Trw_u4Kpo8gXrqtlLLQ",
   authDomain: "TON_PROJET.firebaseapp.com",
   projectId: "TON_PROJET",
   storageBucket: "TON_PROJET.appspot.com",
